@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KodlamaIO", "KodlamaIO\Kodl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Products", "Products\Products.csproj", "{DB74C0E5-4264-4354-BB81-66CF352B728F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductManage", "ProductManage\ProductManage.csproj", "{0904F70C-8512-4614-9B06-CF40F3AB5215}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{DB74C0E5-4264-4354-BB81-66CF352B728F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB74C0E5-4264-4354-BB81-66CF352B728F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB74C0E5-4264-4354-BB81-66CF352B728F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0904F70C-8512-4614-9B06-CF40F3AB5215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0904F70C-8512-4614-9B06-CF40F3AB5215}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0904F70C-8512-4614-9B06-CF40F3AB5215}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0904F70C-8512-4614-9B06-CF40F3AB5215}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
